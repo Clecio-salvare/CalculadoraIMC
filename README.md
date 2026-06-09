@@ -32,6 +32,10 @@ Projeto desenvolvido em Java utilizando Swing e Maven.
 2. Abra o projeto no NetBeans.
 3. Execute a classe principal `TelaImc`.
 
+## Tela da Aplicação
+
+![Calculadora IMC](screenshot.png)
+
 ## Autor
 
 José Clecio Batista da Silva
